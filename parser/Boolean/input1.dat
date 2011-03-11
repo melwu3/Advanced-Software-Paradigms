@@ -1,0 +1,8 @@
+p1 = T
+p2 = T
+q = F
+r = T
+p1 and p2
+q or r
+p1 and not q
+p1 and not (q or r)
